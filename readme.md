@@ -51,7 +51,7 @@ you can use other credentials but you will have to update that in config file
 
 create python 3 virtualenv
 
-`virtual env app`
+`virtualenv app`
 
 Activate the environment
 
